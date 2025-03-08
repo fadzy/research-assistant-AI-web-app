@@ -4,4 +4,4 @@ requests
 beautifulsoup4
 transformers
 torch
-sqlite3
+gunicorn
