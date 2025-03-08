@@ -18,3 +18,5 @@ How It Works
         Frontend: React, Tailwind CSS (for styling), Axios (for API calls).
         Backend: FastAPI, Hugging Face Transformers, CORS Middleware.
         ![image](https://github.com/user-attachments/assets/3cb831c1-591d-4fb9-a448-71ce7345a5a6)
+        https://github.com/fadzy/research-assistant-AI-web-app/blob/main/Screen%20Recording%202025-03-07%20195325.mp4
+        
